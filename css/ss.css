@@ -1,0 +1,92 @@
+body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,figcaption,figure,fieldset,legend,button,input,textarea,th,td{margin:0;padding:0}
+body,button,input,select,textarea{font:12px/1 Lucida Grande,'Microsoft YaHei',"Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif}
+h1{font-size:18px;font-weight:normal}
+h2{font-size:16px;font-weight:normal}
+h3{font-size:14px;font-weight:normal}
+h4,h5,h6{font-size:100%;font-weight:normal}
+address,cite,dfn,em,var{font-style:normal}
+code,kbd,pre,samp,tt{font-family:"Courier New",Courier,monospace}
+small{font-size:12px}
+ul,ol,li{list-style:none}
+a{text-decoration:none}
+abbr[title],acronym[title]{border-bottom:1px dotted;cursor:help}
+q:before,q:after{content:''}
+legend{color:#000}
+fieldset,img{border:0}
+table{border-collapse:collapse;border-spacing:0}
+hr{border:0;height:1px}
+*{-ms-word-break:break-all;word-break:break-all;-ms-word-wrap:break-word;word-wrap:break-word;-webkit-tap-highlight-color:rgba(0,0,0,0)}
+.mui-input-row{
+	width:72%;
+}
+.mui-input-row> .mui-input-clear{
+	font-size:15px;
+}
+.mui-pull-left{
+	color:#999;
+}
+.head p.yz{
+	width:15%;
+	height:40px;
+	position: absolute;
+	right:3%;
+	font-size: 15px;
+	line-height:40px;
+	text-align: center;
+	color:#000;
+}
+.head p.yz:hover{
+	color:#ffaa00;
+}
+
+.ztlr{
+	width:90%;
+	height:250px;
+	margin:0 auto;
+	margin-top: 10%;
+}
+.ztlr_tb{
+	width: 100%;
+	height:50px;
+	line-height: 50px;
+	float: left;
+}
+.ztlr_tb p{
+	font-size:18px;
+	color:#999;
+	font-style: normal;
+	font-weight: normal;
+}
+.ztlr> .sslr{
+	width:100%;
+	height:200px;
+	float: left;
+}
+.ztlr> .sslr li{
+	width:30.3%;
+	height:40px;
+	float:left;
+	font-size: 12px;
+	text-align: center;
+	line-height: 40px;
+	background-color:#dddddd;
+	border-radius:5px;
+	margin-right:3%;
+}
+.ztlr> .sslr li.sslr_ss{
+	margin-top:3%;
+}
+.ztlr> .sslr li a{
+	color:#000;
+}
+.ztlr> .sslr li.sslr_ss a{
+	color:#000;
+}
+.ztlr> .sslr li a:hover{
+	color:#ffaa00;
+	cursor:pointer;
+}
+.ztlr> .sslr li.sslr_ss a:hover{
+	color:#ffaa00;
+	cursor:pointer;
+}
